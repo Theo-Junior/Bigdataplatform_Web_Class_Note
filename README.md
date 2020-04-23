@@ -6,7 +6,11 @@
 <hr>   
 
 [학습]  
-Class 01 :  
+Class 01 : 기본 개념 및 구성도 / Apache & Tomcat 설치 및 구성 / 
+  -> Startup Path on Mac :: cd /usr/local/Cellar/tomcat/<현재 버전 / 9.0.34>/bin/catalina  
+  -> Server Start up :: < 위의 경로에서 > ./catalina start  
+  -> Server Stop :: < 위의 경로에서 > ./catalina stop  
+  
 Class 02 :  
 Class 03 :  
 
