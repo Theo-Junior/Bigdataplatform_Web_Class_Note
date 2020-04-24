@@ -6,7 +6,7 @@
 <hr>   
 
 [학습]  
-Class 01 : 기본 개념 및 구성도 / Apache & Tomcat 설치 및 구성 / HTML 태그, 이미지, 표, 다양한 
+Class 01 : 기본 개념 및 구성도 / Apache & Tomcat 설치 및 구성 / HTML 태그, 이미지, 표, 다양한 주요기능 학습  
 Class 02 :  
 Class 03 :  
 
