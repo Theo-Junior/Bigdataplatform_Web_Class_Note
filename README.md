@@ -8,7 +8,7 @@
 [학습]  
 Class 01 : 기본 개념 및 구성도 / Apache & Tomcat 설치 및 구성 / HTML 태그, 이미지, 표, 다양한 주요기능 학습  
 Class 02 : a link 태그 / Div, Span 실습 / CSS Basic / CSS Override, 우선순위 / Inline, Internal, External CSS 적용  
-Class 03 :  
+Class 03 : HTML 심화 / 웹페이지 구성 및 HTML, CSS 적용 실습 / JS 기초 / HTML과 연결 / 사용자 함수 작성 및 호출 / JS를 통한 HTML값 변경   
 
 <hr>
 
